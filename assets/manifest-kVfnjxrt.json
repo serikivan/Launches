@@ -8,8 +8,8 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "Launches/logo.svg",
-      "type": "image/svg", "sizes": "192x192"
+      "src": "/Launches/logo.png",
+      "type": "image/png", "sizes": "192x192"
     }
   ]
 }
